@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gradle parrot-servis:dB
+docker-compose up -d parrot-servis

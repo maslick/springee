@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gradle fbi-servis:dB
+docker-compose up -d fbi-servis

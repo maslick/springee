@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gradle gateway-server:dB
+docker-compose up -d gateway-server

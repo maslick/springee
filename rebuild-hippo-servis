@@ -1,0 +1,4 @@
+#!/bin/bash
+
+gradle hippo-servis:dB
+docker-compose up -d hippo-servis

@@ -1,0 +1,8 @@
+rootProject.name = "maslick"
+
+//## start includes ####
+//include 'gateway-server'
+include 'hippo-servis'
+include 'parrot-servis'
+include 'fbi-servis'
+//## end includes ######
